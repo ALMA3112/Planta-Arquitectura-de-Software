@@ -1,4 +1,4 @@
-# Planta — 
+# Planta 
 
  Arquitectura de Software · Universidad Sergio Arboleda · 2026-03.
 Equipo: Carlos Cardona, Francisco Morales, Andres (cuyo compañero no sabemos el apellido)
